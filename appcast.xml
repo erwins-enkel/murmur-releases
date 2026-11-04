@@ -3,6 +3,14 @@
   <channel>
     <title>Murmur</title>
     <item>
+      <title>Murmur 0.7.1</title>
+      <pubDate>Wed, 04 Nov 2026 12:11:10 GMT</pubDate>
+      <sparkle:version>135</sparkle:version>
+      <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/erwins-enkel/murmur-releases/releases/download/v0.7.1/Murmur-0.7.1.zip" type="application/octet-stream" sparkle:edSignature="35vjBc8Br59+4Nz2DL3p1o8kbOTw0oGhO291YSl4fUISTUiEfhX7awU9YYsOWRxpZU3ijBVHJH7ezWPYf3CVAA==" length="23397532"/>
+    </item>
+    <item>
       <title>Murmur 0.7.0</title>
       <pubDate>Wed, 04 Nov 2026 11:27:14 GMT</pubDate>
       <sparkle:version>130</sparkle:version>
